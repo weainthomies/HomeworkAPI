@@ -1,0 +1,52 @@
+[
+    {
+        "filename": "hello1.jpg",
+        "contentType": "image/jpeg",
+        "contentLength": "38594",
+        "date": "2025-10-18T21:56:00.560061",
+        "additionalInfo": {
+            "status_code": 200,
+            "encoding": null
+        }
+    },
+    {
+        "filename": "hello2.jpg",
+        "contentType": "image/jpeg",
+        "contentLength": "42249",
+        "date": "2025-10-18T21:56:23.173111",
+        "additionalInfo": {
+            "status_code": 200,
+            "encoding": null
+        }
+    },
+    {
+        "filename": "hello3.jpg",
+        "contentType": "image/jpeg",
+        "contentLength": "27420",
+        "date": "2025-10-18T21:56:42.642298",
+        "additionalInfo": {
+            "status_code": 200,
+            "encoding": null
+        }
+    },
+    {
+        "filename": "hello4.jpg",
+        "contentType": "image/jpeg",
+        "contentLength": "24609",
+        "date": "2025-10-18T21:56:52.922099",
+        "additionalInfo": {
+            "status_code": 200,
+            "encoding": null
+        }
+    },
+    {
+        "filename": "hello5.jpg",
+        "contentType": "image/jpeg",
+        "contentLength": "92059",
+        "date": "2025-10-18T21:57:32.465618",
+        "additionalInfo": {
+            "status_code": 200,
+            "encoding": null
+        }
+    }
+]
